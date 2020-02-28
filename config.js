@@ -19,10 +19,6 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'tuantvk',
@@ -30,7 +26,7 @@ module.exports = {
     bio: 'C0de h4v3 fun',
     contacts: {
       email: '',
-      facebook: 'tuantvk',
+      facebook: '#',
       telegram: '#',
       twitter: 'tuantvk',
       github: 'tuantvk',
