@@ -507,10 +507,6 @@ Jest will accept both extensions and will append file extension as necessary for
 
 Since this is the first time we run this snapshot test, Jest will create a snapshot file for us inside the folder `__snapshots__`.
 
-<p align="center">
-  <img src="assets/boom.gif" alt="boom" />
-<p>
-
 
 ## Events Testing
 
