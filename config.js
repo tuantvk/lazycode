@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lazycode.github.io',
+  url: 'https://tuantvk-lazycode.netlify.com/',
   pathPrefix: '/',
   title: 'Blog by tuantvk',
   subtitle: 'C0de h4v3 fun',
